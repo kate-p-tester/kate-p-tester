@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kate-p-tester
 - 👀 I’m interested in QA, AQA, Front-End, Cypress, Selenium, SQL, Postman
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Java
 
 
 <!---
